@@ -1,0 +1,17 @@
+body{
+  margin: 0 auto;
+  max-midth: 50em;
+  background-color: #CFD7DB;
+}
+
+h1 {
+    color: navy;
+    margin-left: 20px;
+    font-family: sans-serif;
+}
+
+p{
+  color: grey;
+  margin-left: 20px;
+  font-family: sans-serif;;
+}
